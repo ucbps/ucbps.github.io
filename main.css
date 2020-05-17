@@ -1,0 +1,65 @@
+html {
+  height:100%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  background-color: #FFFFFF;
+  color: black;
+  width: 100%;
+  margin: auto;
+  margin-top: 1%;
+  height:98%;
+  background-image: url('tess.png');
+  background-size: auto 22%;
+  background-repeat: no-repeat;
+  background-position: bottom; 
+}
+
+header {
+  background-color: #003262;
+  color: #FDB515;
+  text-align: center;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-bottom: 2em;
+}
+
+
+.main {
+  width: 90%;
+  max-width: 800px;
+  margin: auto;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #ebebeb;
+}
+
+a:link, a:visited, a:active {
+  color: #00A598;
+  text-decoration: none;
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
+a:hover {
+    color: #3B7EA1;
+}
+
+h1 {
+  font-size: 225%;
+}
