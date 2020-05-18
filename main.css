@@ -29,6 +29,7 @@ header {
   background-size: 100% auto;
   background-position: right bottom;
   background-repeat: no-repeat;
+  overflow-x:scroll;
 }
 
 table {
