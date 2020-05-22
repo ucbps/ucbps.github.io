@@ -1,1 +1,1 @@
-# seminar-website
+# Group Website
